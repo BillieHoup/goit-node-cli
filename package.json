@@ -1,0 +1,25 @@
+{
+  "name": "goit-node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "npm": "10.2.3",
+    "node": "v20.10.0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/BillieHoup/goit-node-cli"
+  },
+  "keywords": [],
+  "author": "Vira Malysh",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^12.0.0",
+    "nanoid": "^3.3.7"
+  }
+}
